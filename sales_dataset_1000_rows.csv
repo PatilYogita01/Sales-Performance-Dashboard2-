@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Product,Quantity,Unit_Price,Sales,Profit
+1,2025-11-24,Customer_63,East,Electronics,Laptop,4,50,200,48.4
+2,2025-12-13,Customer_152,North,Office Supplies,Marker,7,20,140,12.12
+3,2025-04-22,Customer_144,North,Electronics,Headphones,4,800,3200,713.52
+4,2025-10-07,Customer_151,West,Furniture,Desk,5,20,100,24.69
+5,2025-03-23,Customer_72,East,Office Supplies,Stapler,3,50,150,43.59
+6,2025-06-22,Customer_25,West,Electronics,Laptop,6,100,600,127.69
+7,2025-01-23,Customer_97,North,Office Supplies,Stapler,2,500,1000,144.5
+8,2025-11-18,Customer_181,South,Office Supplies,Paper,2,20,40,9.02
+9,2025-05-29,Customer_98,North,Electronics,Mouse,5,200,1000,219.85
+10,2025-07-06,Customer_54,East,Electronics,Keyboard,5,800,4000,1144.26
+11,2025-11-28,Customer_137,South,Electronics,Headphones,4,50,200,36.34
+12,2025-05-19,Customer_176,South,Office Supplies,Marker,6,20,120,15.65
+13,2025-01-17,Customer_17,East,Furniture,Cabinet,4,500,2000,545.6
+14,2025-06-11,Customer_165,West,Electronics,Monitor,8,50,400,55.31
+15,2025-05-07,Customer_192,East,Office Supplies,Marker,10,200,2000,555.04
+16,2025-07-24,Customer_131,South,Furniture,Desk,8,20,160,39.4
+17,2025-02-26,Customer_153,West,Electronics,Mouse,2,200,400,65.58
+18,2025-08-28,Customer_175,North,Office Supplies,Paper,2,800,1600,439.45
+19,2025-05-17,Customer_76,North,Office Supplies,Paper,7,50,350,62.94
+20,2025-05-15,Customer_161,North,Office Supplies,Notebook,5,800,4000,766.74
+21,2025-04-12,Customer_139,South,Electronics,Keyboard,9,20,180,38.12
+22,2025-09-08,Customer_79,East,Electronics,Laptop,4,20,80,10.64
+23,2025-10-18,Customer_18,West,Electronics,Laptop,9,50,450,48.71
+24,2025-09-01,Customer_136,East,Office Supplies,Notebook,10,200,2000,584.32
+25,2025-10-04,Customer_103,East,Office Supplies,Notebook,6,200,1200,333.5
+26,2025-08-20,Customer_17,South,Electronics,Mouse,6,20,120,25.13
+27,2025-04-28,Customer_19,North,Office Supplies,Notebook,1,50,50,4.74
+28,2025-01-17,Customer_72,South,Furniture,Chair,8,50,400,79.45
+29,2025-10-20,Customer_122,South,Office Supplies,Stapler,7,50,350,35.26
+30,2025-12-04,Customer_106,West,Furniture,Table,8,800,6400,588.27
+31,2025-12-01,Customer_104,North,Office Supplies,Pen,6,20,120,16.16
+32,2025-04-08,Customer_109,South,Office Supplies,Stapler,3,100,300,54.53
+33,2025-02-08,Customer_13,North,Furniture,Bookshelf,9,20,180,52.77
+34,2025-05-02,Customer_124,West,Electronics,Monitor,4,200,800,222.83
+35,2025-03-26,Customer_68,West,Furniture,Chair,8,100,800,138.45
+36,2025-10-12,Customer_49,South,Office Supplies,Stapler,5,50,250,73.28
+37,2025-10-24,Customer_192,North,Office Supplies,Marker,6,20,120,10.92
+38,2025-09-02,Customer_15,South,Office Supplies,Marker,9,20,180,48.11
+39,2025-02-05,Customer_104,South,Office Supplies,Pen,2,500,1000,134.17
+40,2025-11-01,Customer_108,North,Electronics,Headphones,10,500,5000,975.06
+41,2025-05-14,Customer_68,South,Electronics,Keyboard,7,50,350,79.72
+42,2025-06-03,Customer_3,North,Furniture,Table,8,500,4000,1198.64
+43,2025-02-21,Customer_130,South,Electronics,Headphones,5,50,250,71.33
+44,2025-02-05,Customer_41,East,Electronics,Keyboard,8,500,4000,939.12
+45,2025-11-10,Customer_171,North,Office Supplies,Marker,9,100,900,256.49
+46,2025-02-23,Customer_28,North,Electronics,Keyboard,9,50,450,62.96
+47,2025-11-06,Customer_176,South,Electronics,Keyboard,5,500,2500,468.69
+48,2025-01-27,Customer_12,East,Electronics,Monitor,1,100,100,24.96
+49,2025-11-23,Customer_142,West,Furniture,Desk,7,500,3500,287.45
+50,2025-02-08,Customer_95,North,Office Supplies,Notebook,10,500,5000,562.9
+51,2025-03-07,Customer_11,East,Electronics,Keyboard,6,50,300,69.02
+52,2025-12-08,Customer_159,West,Electronics,Keyboard,3,50,150,40.53
+53,2025-04-01,Customer_189,South,Furniture,Chair,6,200,1200,307.79
+54,2025-05-08,Customer_98,North,Furniture,Desk,1,200,200,25.79
+55,2025-08-24,Customer_58,South,Furniture,Table,1,800,800,97.99
+56,2025-06-18,Customer_90,East,Furniture,Chair,9,200,1800,413.09
+57,2025-10-02,Customer_67,North,Furniture,Chair,3,500,1500,437.64
+58,2025-05-16,Customer_89,West,Electronics,Laptop,6,200,1200,256.04
+59,2025-09-19,Customer_66,South,Electronics,Monitor,1,800,800,140.75
+60,2025-09-24,Customer_111,East,Office Supplies,Notebook,2,800,1600,452.11
+61,2025-11-16,Customer_130,East,Furniture,Chair,5,800,4000,679.39
+62,2025-07-26,Customer_50,South,Office Supplies,Paper,7,800,5600,1606.53
+63,2025-12-13,Customer_104,East,Office Supplies,Notebook,9,20,180,26.43
+64,2025-04-18,Customer_120,East,Furniture,Bookshelf,8,200,1600,365.82
+65,2025-09-19,Customer_73,North,Furniture,Desk,9,800,7200,1578.58
+66,2025-06-21,Customer_58,East,Electronics,Mouse,4,50,200,17.07
+67,2025-05-06,Customer_117,North,Furniture,Bookshelf,7,800,5600,1157.23
+68,2025-12-23,Customer_63,West,Furniture,Cabinet,3,800,2400,555.06
+69,2025-02-24,Customer_179,South,Furniture,Desk,9,200,1800,163.89
+70,2025-05-08,Customer_119,South,Electronics,Monitor,9,500,4500,949.5
+71,2025-08-15,Customer_141,West,Office Supplies,Marker,8,50,400,97.44
+72,2025-09-01,Customer_164,South,Furniture,Table,5,500,2500,466.53
+73,2025-05-03,Customer_183,North,Furniture,Cabinet,5,50,250,34.94
+74,2025-06-13,Customer_39,South,Office Supplies,Pen,4,200,800,186.14
+75,2025-12-28,Customer_105,West,Electronics,Laptop,6,500,3000,547.51
+76,2025-02-01,Customer_198,West,Electronics,Monitor,10,800,8000,674.38
+77,2025-10-22,Customer_91,North,Furniture,Cabinet,5,200,1000,267.76
+78,2025-08-03,Customer_125,South,Office Supplies,Marker,4,100,400,70.35
+79,2025-01-15,Customer_186,West,Furniture,Table,3,200,600,169.38
+80,2025-11-15,Customer_152,West,Office Supplies,Pen,10,800,8000,687.7
+81,2025-11-26,Customer_47,West,Furniture,Desk,1,100,100,16.34
+82,2025-04-19,Customer_195,East,Furniture,Table,7,100,700,171.81
+83,2025-08-04,Customer_5,West,Furniture,Chair,9,20,180,54.0
+84,2025-06-29,Customer_194,North,Electronics,Laptop,1,50,50,6.19
+85,2025-01-11,Customer_33,South,Office Supplies,Notebook,8,800,6400,673.06
+86,2025-04-22,Customer_43,East,Furniture,Table,10,500,5000,1460.11
+87,2025-02-28,Customer_149,North,Electronics,Keyboard,1,100,100,20.67
+88,2025-07-12,Customer_152,North,Furniture,Desk,4,20,80,18.67
+89,2025-06-04,Customer_145,North,Office Supplies,Marker,1,100,100,19.72
+90,2025-12-05,Customer_4,East,Furniture,Chair,7,200,1400,144.51
+91,2025-07-05,Customer_112,South,Office Supplies,Stapler,3,800,2400,467.48
+92,2025-11-30,Customer_120,West,Furniture,Bookshelf,7,800,5600,1177.93
+93,2025-06-15,Customer_116,East,Electronics,Laptop,4,200,800,164.29
+94,2025-12-09,Customer_127,North,Furniture,Table,6,50,300,56.18
+95,2025-07-01,Customer_153,East,Furniture,Table,5,500,2500,205.58
+96,2025-04-08,Customer_126,West,Electronics,Mouse,9,50,450,104.37
+97,2025-11-27,Customer_5,West,Office Supplies,Stapler,2,100,200,25.75
+98,2025-12-21,Customer_122,East,Electronics,Keyboard,9,500,4500,700.32
+99,2025-10-09,Customer_70,West,Furniture,Table,5,100,500,65.36
+100,2025-04-09,Customer_50,South,Furniture,Chair,4,800,3200,596.88
+101,2025-10-29,Customer_26,East,Office Supplies,Marker,4,100,400,52.02
+102,2025-04-02,Customer_71,South,Furniture,Chair,1,20,20,4.03
+103,2025-12-24,Customer_4,North,Electronics,Monitor,10,100,1000,183.27
+104,2025-08-14,Customer_65,North,Furniture,Desk,8,20,160,41.74
+105,2025-07-25,Customer_39,North,Furniture,Chair,3,500,1500,433.21
+106,2025-02-13,Customer_156,West,Electronics,Laptop,10,500,5000,648.26
+107,2025-09-25,Customer_77,West,Furniture,Cabinet,10,200,2000,294.37
+108,2025-11-14,Customer_196,North,Electronics,Headphones,4,800,3200,404.56
+109,2025-12-05,Customer_45,South,Electronics,Mouse,9,20,180,20.6
+110,2025-07-29,Customer_75,West,Furniture,Bookshelf,1,50,50,7.17
+111,2025-05-25,Customer_176,North,Office Supplies,Stapler,4,100,400,101.33
+112,2025-11-17,Customer_30,West,Office Supplies,Notebook,9,50,450,100.12
+113,2025-05-17,Customer_43,North,Electronics,Laptop,5,500,2500,611.93
+114,2025-10-19,Customer_120,North,Furniture,Cabinet,5,800,4000,674.21
+115,2025-05-20,Customer_113,West,Office Supplies,Marker,2,500,1000,88.77
+116,2025-08-10,Customer_7,East,Office Supplies,Paper,2,50,100,29.16
+117,2025-10-22,Customer_148,East,Office Supplies,Pen,1,50,50,9.18
+118,2025-11-30,Customer_150,South,Furniture,Table,7,800,5600,1451.15
+119,2025-02-16,Customer_86,West,Furniture,Table,6,800,4800,494.46
+120,2025-03-24,Customer_74,West,Furniture,Cabinet,7,500,3500,308.26
+121,2025-02-15,Customer_30,East,Furniture,Table,7,500,3500,915.19
+122,2025-01-01,Customer_106,West,Office Supplies,Marker,1,50,50,9.7
+123,2025-11-15,Customer_53,North,Furniture,Cabinet,5,500,2500,272.06
+124,2025-05-28,Customer_8,North,Furniture,Cabinet,10,50,500,118.08
+125,2025-06-09,Customer_24,West,Office Supplies,Pen,4,20,80,14.52
+126,2025-03-02,Customer_184,West,Office Supplies,Notebook,5,500,2500,587.98
+127,2025-08-01,Customer_117,South,Furniture,Cabinet,9,50,450,73.98
+128,2025-11-03,Customer_71,North,Office Supplies,Notebook,7,100,700,199.87
+129,2025-09-17,Customer_186,East,Furniture,Chair,5,500,2500,518.96
+130,2025-12-04,Customer_138,West,Furniture,Desk,8,100,800,122.51
+131,2025-10-06,Customer_49,East,Furniture,Cabinet,4,500,2000,328.51
+132,2025-07-30,Customer_181,West,Electronics,Keyboard,7,200,1400,416.43
+133,2025-11-30,Customer_33,North,Electronics,Monitor,9,500,4500,688.67
+134,2025-02-21,Customer_4,West,Furniture,Chair,3,200,600,162.96
+135,2025-03-21,Customer_87,East,Electronics,Monitor,10,800,8000,1339.57
+136,2025-02-11,Customer_82,West,Furniture,Bookshelf,8,500,4000,351.59
+137,2025-02-05,Customer_192,South,Electronics,Keyboard,2,200,400,118.09
+138,2025-11-21,Customer_43,West,Office Supplies,Pen,5,20,100,9.01
+139,2025-01-29,Customer_111,East,Furniture,Table,3,50,150,29.53
+140,2025-10-17,Customer_45,South,Office Supplies,Notebook,2,500,1000,271.58
+141,2025-11-14,Customer_150,West,Office Supplies,Notebook,3,50,150,27.22
+142,2025-05-11,Customer_120,North,Furniture,Table,5,800,4000,801.01
+143,2025-02-07,Customer_164,East,Furniture,Table,7,800,5600,756.12
+144,2025-06-04,Customer_28,West,Electronics,Monitor,4,200,800,164.66
+145,2025-10-22,Customer_169,North,Furniture,Table,7,100,700,57.25
+146,2025-12-18,Customer_74,West,Office Supplies,Pen,4,500,2000,512.85
+147,2025-04-23,Customer_174,East,Office Supplies,Notebook,3,800,2400,243.3
+148,2025-11-18,Customer_113,East,Office Supplies,Pen,1,500,500,80.13
+149,2025-03-09,Customer_192,East,Electronics,Keyboard,7,50,350,43.46
+150,2025-10-04,Customer_43,East,Furniture,Bookshelf,5,200,1000,292.82
+151,2025-06-01,Customer_120,North,Office Supplies,Paper,2,50,100,24.59
+152,2025-04-26,Customer_24,East,Office Supplies,Stapler,7,20,140,19.35
+153,2025-03-05,Customer_150,East,Furniture,Table,7,800,5600,1606.44
+154,2025-02-25,Customer_7,West,Office Supplies,Notebook,10,500,5000,760.81
+155,2025-11-09,Customer_180,West,Electronics,Laptop,5,800,4000,679.3
+156,2025-03-13,Customer_127,East,Electronics,Laptop,2,20,40,5.27
+157,2025-10-03,Customer_95,West,Electronics,Monitor,9,200,1800,376.59
+158,2025-03-21,Customer_158,West,Furniture,Chair,7,100,700,61.04
+159,2025-07-09,Customer_61,West,Electronics,Monitor,6,20,120,35.5
+160,2025-07-08,Customer_102,North,Office Supplies,Paper,5,50,250,73.25
+161,2025-08-21,Customer_13,North,Electronics,Mouse,6,50,300,89.26
+162,2025-10-17,Customer_151,South,Electronics,Laptop,4,50,200,30.46
+163,2025-03-17,Customer_38,East,Office Supplies,Pen,3,500,1500,202.72
+164,2025-03-31,Customer_4,South,Electronics,Laptop,6,50,300,62.86
+165,2025-01-09,Customer_33,North,Electronics,Keyboard,7,500,3500,367.51
+166,2025-02-02,Customer_132,East,Furniture,Cabinet,10,20,200,35.89
+167,2025-04-24,Customer_118,East,Office Supplies,Pen,1,20,20,5.99
+168,2025-07-25,Customer_183,West,Furniture,Chair,8,20,160,44.45
+169,2025-06-14,Customer_33,North,Office Supplies,Notebook,5,500,2500,548.19
+170,2025-10-08,Customer_153,West,Office Supplies,Paper,9,100,900,161.84
+171,2025-11-06,Customer_168,North,Furniture,Chair,9,800,7200,1946.94
+172,2025-08-09,Customer_87,West,Furniture,Desk,8,200,1600,274.43
+173,2025-02-18,Customer_171,East,Furniture,Cabinet,5,100,500,144.9
+174,2025-12-18,Customer_22,North,Furniture,Chair,2,200,400,40.5
+175,2025-07-10,Customer_151,North,Electronics,Headphones,9,500,4500,686.35
+176,2025-03-04,Customer_185,West,Furniture,Table,1,100,100,21.21
+177,2025-06-30,Customer_40,South,Electronics,Headphones,8,50,400,106.56
+178,2025-06-29,Customer_196,North,Office Supplies,Paper,5,500,2500,324.39
+179,2025-08-08,Customer_156,North,Office Supplies,Marker,5,20,100,11.97
+180,2025-12-26,Customer_2,East,Furniture,Table,3,50,150,30.69
+181,2025-07-25,Customer_24,North,Electronics,Mouse,9,50,450,73.24
+182,2025-08-21,Customer_80,East,Furniture,Desk,6,500,3000,633.51
+183,2025-01-27,Customer_173,North,Electronics,Mouse,2,100,200,35.5
+184,2025-08-06,Customer_107,West,Furniture,Bookshelf,5,50,250,61.52
+185,2025-02-28,Customer_73,North,Furniture,Cabinet,10,200,2000,391.85
+186,2025-06-07,Customer_154,West,Electronics,Mouse,1,20,20,2.5
+187,2025-04-19,Customer_84,East,Electronics,Keyboard,2,20,40,7.58
+188,2025-08-09,Customer_137,West,Electronics,Mouse,4,500,2000,405.84
+189,2025-12-09,Customer_190,West,Furniture,Chair,1,200,200,16.82
+190,2025-02-09,Customer_147,West,Furniture,Bookshelf,7,800,5600,1236.65
+191,2025-05-29,Customer_84,North,Electronics,Monitor,3,500,1500,271.83
+192,2025-12-20,Customer_28,West,Furniture,Chair,4,200,800,167.64
+193,2025-09-26,Customer_191,East,Electronics,Monitor,6,50,300,45.98
+194,2025-03-28,Customer_136,North,Electronics,Headphones,9,50,450,125.69
+195,2025-06-28,Customer_27,South,Furniture,Desk,3,100,300,37.02
+196,2025-11-05,Customer_198,South,Electronics,Laptop,8,200,1600,393.56
+197,2025-10-24,Customer_161,East,Furniture,Bookshelf,6,50,300,53.02
+198,2025-08-29,Customer_152,East,Furniture,Table,1,100,100,19.16
+199,2025-06-08,Customer_15,North,Furniture,Cabinet,6,100,600,58.13
+200,2025-02-16,Customer_119,West,Office Supplies,Marker,10,500,5000,1449.65
+201,2025-01-22,Customer_83,South,Furniture,Bookshelf,10,200,2000,380.6
+202,2025-02-01,Customer_183,East,Furniture,Chair,2,500,1000,222.15
+203,2025-01-21,Customer_135,West,Electronics,Monitor,9,500,4500,517.16
+204,2025-07-10,Customer_199,West,Furniture,Cabinet,6,800,4800,1015.37
+205,2025-11-20,Customer_85,North,Office Supplies,Paper,2,500,1000,229.24
+206,2025-05-26,Customer_86,South,Furniture,Bookshelf,2,500,1000,225.99
+207,2025-06-29,Customer_153,South,Furniture,Cabinet,2,100,200,40.59
+208,2025-11-26,Customer_166,North,Furniture,Desk,7,500,3500,558.61
+209,2025-07-05,Customer_88,South,Furniture,Desk,8,50,400,51.94
+210,2025-03-12,Customer_26,East,Electronics,Laptop,9,500,4500,1186.77
+211,2025-09-27,Customer_153,South,Electronics,Keyboard,7,50,350,40.49
+212,2025-12-21,Customer_12,West,Office Supplies,Notebook,7,100,700,160.16
+213,2025-05-02,Customer_193,East,Furniture,Bookshelf,8,50,400,78.99
+214,2025-06-08,Customer_174,East,Furniture,Desk,10,200,2000,363.14
+215,2025-05-25,Customer_42,West,Furniture,Bookshelf,4,500,2000,220.9
+216,2025-05-09,Customer_142,East,Electronics,Monitor,2,800,1600,425.75
+217,2025-03-05,Customer_70,South,Furniture,Chair,8,500,4000,449.67
+218,2025-08-12,Customer_90,West,Electronics,Mouse,1,200,200,18.34
+219,2025-09-15,Customer_21,West,Furniture,Desk,6,50,300,25.86
+220,2025-02-20,Customer_36,South,Office Supplies,Paper,1,100,100,28.18
+221,2025-08-30,Customer_115,West,Office Supplies,Notebook,10,20,200,55.86
+222,2025-01-10,Customer_141,South,Furniture,Desk,10,500,5000,865.58
+223,2025-05-28,Customer_13,North,Electronics,Keyboard,4,200,800,176.46
+224,2025-11-15,Customer_128,North,Furniture,Chair,10,500,5000,418.08
+225,2025-09-21,Customer_75,South,Office Supplies,Notebook,7,20,140,30.14
+226,2025-05-04,Customer_171,South,Office Supplies,Stapler,2,500,1000,294.42
+227,2025-02-04,Customer_100,North,Office Supplies,Marker,8,20,160,35.18
+228,2025-07-11,Customer_18,East,Furniture,Chair,6,50,300,72.37
+229,2025-11-18,Customer_35,East,Electronics,Headphones,1,100,100,20.01
+230,2025-11-26,Customer_162,West,Electronics,Monitor,3,50,150,14.08
+231,2025-08-23,Customer_12,South,Electronics,Keyboard,4,20,80,11.95
+232,2025-06-08,Customer_65,West,Office Supplies,Stapler,1,800,800,97.63
+233,2025-07-02,Customer_32,East,Electronics,Keyboard,6,200,1200,330.82
+234,2025-08-14,Customer_128,South,Furniture,Table,8,100,800,226.68
+235,2025-09-23,Customer_21,West,Furniture,Chair,7,500,3500,1046.23
+236,2025-04-03,Customer_27,East,Office Supplies,Paper,2,100,200,45.08
+237,2025-06-06,Customer_43,West,Furniture,Bookshelf,8,100,800,142.69
+238,2025-06-30,Customer_164,East,Office Supplies,Stapler,1,20,20,4.55
+239,2025-07-27,Customer_8,South,Furniture,Bookshelf,3,500,1500,343.77
+240,2025-08-13,Customer_61,North,Electronics,Mouse,6,100,600,98.54
+241,2025-10-18,Customer_174,South,Electronics,Headphones,8,100,800,129.47
+242,2025-02-09,Customer_102,East,Office Supplies,Notebook,6,800,4800,678.3
+243,2025-02-28,Customer_133,West,Electronics,Mouse,7,500,3500,370.68
+244,2025-05-14,Customer_157,South,Office Supplies,Stapler,5,800,4000,1126.5
+245,2025-09-09,Customer_19,South,Electronics,Laptop,8,50,400,111.08
+246,2025-08-16,Customer_182,East,Electronics,Keyboard,2,500,1000,199.28
+247,2025-06-03,Customer_131,East,Electronics,Mouse,4,20,80,23.74
+248,2025-03-13,Customer_93,North,Electronics,Monitor,9,500,4500,725.22
+249,2025-10-10,Customer_17,North,Electronics,Headphones,5,200,1000,299.91
+250,2025-09-03,Customer_148,West,Office Supplies,Stapler,2,50,100,29.39
+251,2025-11-25,Customer_175,West,Electronics,Monitor,9,100,900,97.41
+252,2025-10-10,Customer_197,South,Office Supplies,Marker,3,200,600,114.38
+253,2025-01-29,Customer_78,South,Electronics,Headphones,3,50,150,22.65
+254,2025-12-30,Customer_21,East,Electronics,Keyboard,5,50,250,54.93
+255,2025-10-10,Customer_158,East,Furniture,Desk,9,20,180,34.3
+256,2025-03-28,Customer_44,South,Office Supplies,Marker,10,800,8000,2227.52
+257,2025-06-22,Customer_21,North,Office Supplies,Pen,1,800,800,199.7
+258,2025-05-16,Customer_159,West,Office Supplies,Notebook,1,200,200,55.12
+259,2025-10-07,Customer_63,West,Furniture,Table,7,100,700,125.85
+260,2025-12-19,Customer_107,West,Electronics,Mouse,8,200,1600,199.82
+261,2025-11-07,Customer_188,East,Electronics,Keyboard,6,200,1200,130.52
+262,2025-07-09,Customer_82,North,Office Supplies,Marker,4,200,800,85.56
+263,2025-08-19,Customer_13,North,Electronics,Mouse,5,200,1000,270.12
+264,2025-08-03,Customer_148,East,Electronics,Mouse,6,50,300,74.37
+265,2025-09-13,Customer_79,West,Office Supplies,Stapler,8,20,160,15.97
+266,2025-07-21,Customer_56,South,Office Supplies,Stapler,10,100,1000,90.7
+267,2025-05-25,Customer_74,West,Furniture,Bookshelf,9,20,180,47.95
+268,2025-08-09,Customer_196,East,Electronics,Keyboard,7,100,700,62.97
+269,2025-01-27,Customer_93,South,Office Supplies,Marker,9,100,900,86.56
+270,2025-09-16,Customer_160,East,Furniture,Bookshelf,10,20,200,21.66
+271,2025-02-19,Customer_143,East,Furniture,Table,6,50,300,37.14
+272,2025-09-18,Customer_12,North,Furniture,Bookshelf,1,50,50,11.85
+273,2025-08-31,Customer_156,South,Office Supplies,Stapler,9,50,450,68.47
+274,2025-11-10,Customer_158,West,Furniture,Desk,5,500,2500,385.01
+275,2025-09-18,Customer_122,East,Office Supplies,Stapler,1,100,100,15.29
+276,2025-02-26,Customer_186,East,Furniture,Bookshelf,1,500,500,92.2
+277,2025-12-02,Customer_185,South,Office Supplies,Marker,1,500,500,92.85
+278,2025-09-26,Customer_38,West,Office Supplies,Marker,4,20,80,16.48
+279,2025-12-25,Customer_113,North,Electronics,Mouse,6,200,1200,135.98
+280,2025-12-20,Customer_189,West,Electronics,Monitor,1,800,800,88.3
+281,2025-04-17,Customer_135,West,Office Supplies,Paper,7,100,700,203.33
+282,2025-08-24,Customer_174,East,Office Supplies,Paper,5,500,2500,466.3
+283,2025-05-07,Customer_58,East,Furniture,Bookshelf,5,100,500,117.54
+284,2025-12-20,Customer_123,East,Office Supplies,Stapler,6,500,3000,856.24
+285,2025-05-21,Customer_102,West,Furniture,Chair,6,50,300,43.17
+286,2025-05-28,Customer_114,East,Office Supplies,Pen,5,800,4000,741.59
+287,2025-04-14,Customer_36,East,Office Supplies,Paper,2,500,1000,243.0
+288,2025-05-03,Customer_164,South,Electronics,Laptop,4,20,80,8.16
+289,2025-06-19,Customer_175,North,Office Supplies,Stapler,3,20,60,17.53
+290,2025-03-22,Customer_167,West,Furniture,Cabinet,4,100,400,60.26
+291,2025-11-27,Customer_137,South,Electronics,Laptop,1,50,50,8.6
+292,2025-04-01,Customer_48,West,Electronics,Monitor,5,20,100,8.2
+293,2025-10-18,Customer_73,East,Office Supplies,Pen,8,800,6400,1276.97
+294,2025-09-10,Customer_70,West,Electronics,Headphones,4,20,80,12.22
+295,2025-08-23,Customer_4,South,Office Supplies,Paper,6,100,600,122.95
+296,2025-04-09,Customer_110,West,Electronics,Headphones,9,100,900,89.17
+297,2025-12-09,Customer_123,South,Electronics,Mouse,6,50,300,24.45
+298,2025-07-16,Customer_85,East,Electronics,Monitor,5,500,2500,597.59
+299,2025-01-06,Customer_16,South,Furniture,Table,2,200,400,59.0
+300,2025-07-27,Customer_177,East,Office Supplies,Marker,2,800,1600,450.48
+301,2025-06-01,Customer_57,South,Furniture,Bookshelf,3,200,600,68.22
+302,2025-11-07,Customer_194,West,Furniture,Cabinet,9,800,7200,1883.76
+303,2025-05-07,Customer_135,North,Office Supplies,Marker,8,500,4000,939.31
+304,2025-02-09,Customer_141,North,Office Supplies,Pen,9,50,450,92.7
+305,2025-03-18,Customer_30,West,Electronics,Keyboard,4,800,3200,666.54
+306,2025-02-16,Customer_117,North,Office Supplies,Stapler,3,500,1500,257.09
+307,2025-10-16,Customer_173,West,Electronics,Headphones,5,800,4000,339.16
+308,2025-05-11,Customer_12,North,Electronics,Mouse,7,100,700,163.86
+309,2025-10-05,Customer_9,West,Electronics,Laptop,5,200,1000,119.6
+310,2025-03-11,Customer_98,East,Office Supplies,Stapler,8,200,1600,260.23
+311,2025-12-16,Customer_168,South,Office Supplies,Marker,6,20,120,14.31
+312,2025-10-03,Customer_187,South,Furniture,Bookshelf,4,20,80,19.71
+313,2025-06-02,Customer_137,West,Furniture,Bookshelf,7,50,350,47.06
+314,2025-06-27,Customer_186,South,Electronics,Keyboard,2,20,40,10.32
+315,2025-08-03,Customer_53,South,Office Supplies,Pen,2,20,40,8.43
+316,2025-08-17,Customer_190,South,Office Supplies,Pen,1,200,200,35.31
+317,2025-10-04,Customer_129,South,Electronics,Laptop,5,50,250,64.87
+318,2025-10-22,Customer_61,East,Furniture,Bookshelf,5,50,250,74.21
+319,2025-09-24,Customer_71,East,Electronics,Monitor,1,500,500,144.34
+320,2025-03-31,Customer_13,West,Office Supplies,Stapler,6,800,4800,1092.94
+321,2025-09-26,Customer_39,West,Furniture,Cabinet,5,200,1000,120.45
+322,2025-10-03,Customer_77,South,Furniture,Desk,3,200,600,168.75
+323,2025-10-15,Customer_100,South,Furniture,Cabinet,4,100,400,49.89
+324,2025-11-28,Customer_24,East,Electronics,Monitor,9,800,7200,1889.78
+325,2025-01-27,Customer_19,North,Furniture,Cabinet,4,500,2000,478.69
+326,2025-10-14,Customer_86,South,Electronics,Monitor,5,20,100,12.66
+327,2025-04-08,Customer_63,West,Office Supplies,Pen,10,800,8000,999.94
+328,2025-05-03,Customer_98,East,Office Supplies,Paper,8,500,4000,890.87
+329,2025-06-07,Customer_120,West,Furniture,Table,2,800,1600,293.26
+330,2025-06-13,Customer_106,East,Electronics,Keyboard,1,500,500,135.05
+331,2025-03-16,Customer_76,West,Electronics,Keyboard,3,50,150,22.89
+332,2025-07-14,Customer_141,West,Office Supplies,Notebook,6,100,600,148.76
+333,2025-09-08,Customer_44,West,Office Supplies,Stapler,6,50,300,33.24
+334,2025-10-07,Customer_135,North,Furniture,Desk,1,20,20,5.76
+335,2025-12-09,Customer_36,West,Electronics,Laptop,4,20,80,18.85
+336,2025-01-05,Customer_96,West,Electronics,Headphones,1,500,500,110.15
+337,2025-11-12,Customer_2,North,Furniture,Cabinet,9,500,4500,767.23
+338,2025-01-09,Customer_5,East,Office Supplies,Paper,9,800,7200,1643.67
+339,2025-04-02,Customer_62,South,Electronics,Laptop,4,500,2000,391.64
+340,2025-07-01,Customer_96,North,Furniture,Cabinet,7,200,1400,286.02
+341,2025-12-23,Customer_168,North,Electronics,Keyboard,1,20,20,3.38
+342,2025-07-13,Customer_164,North,Office Supplies,Stapler,1,800,800,94.16
+343,2025-09-13,Customer_136,North,Furniture,Table,1,50,50,6.33
+344,2025-12-21,Customer_12,East,Office Supplies,Stapler,2,800,1600,453.81
+345,2025-10-06,Customer_81,South,Office Supplies,Pen,1,50,50,10.46
+346,2025-12-31,Customer_42,East,Furniture,Chair,10,50,500,102.34
+347,2025-07-19,Customer_99,East,Office Supplies,Marker,3,800,2400,574.36
+348,2025-09-14,Customer_26,North,Office Supplies,Paper,7,50,350,92.58
+349,2025-06-24,Customer_199,West,Office Supplies,Marker,6,20,120,26.34
+350,2025-08-19,Customer_142,East,Furniture,Desk,7,200,1400,169.21
+351,2025-10-27,Customer_198,North,Office Supplies,Stapler,10,100,1000,255.57
+352,2025-02-07,Customer_98,South,Electronics,Keyboard,3,800,2400,397.72
+353,2025-07-04,Customer_79,North,Electronics,Laptop,8,100,800,198.0
+354,2025-02-22,Customer_111,South,Electronics,Laptop,8,500,4000,808.17
+355,2025-07-28,Customer_91,North,Electronics,Laptop,9,20,180,38.04
+356,2025-06-16,Customer_106,East,Furniture,Chair,7,20,140,33.53
+357,2025-10-14,Customer_176,South,Electronics,Headphones,7,50,350,38.69
+358,2025-06-04,Customer_17,South,Furniture,Cabinet,3,200,600,84.43
+359,2025-06-03,Customer_65,East,Furniture,Chair,4,800,3200,696.02
+360,2025-11-01,Customer_28,West,Office Supplies,Notebook,3,100,300,24.45
+361,2025-07-22,Customer_85,West,Furniture,Bookshelf,8,100,800,139.79
+362,2025-11-30,Customer_83,East,Office Supplies,Notebook,10,800,8000,993.5
+363,2025-06-10,Customer_75,East,Electronics,Monitor,8,500,4000,1008.14
+364,2025-06-16,Customer_94,West,Furniture,Table,2,500,1000,123.96
+365,2025-10-07,Customer_187,North,Electronics,Headphones,8,800,6400,807.18
+366,2025-05-30,Customer_173,West,Office Supplies,Pen,8,50,400,87.73
+367,2025-05-04,Customer_97,West,Furniture,Desk,2,200,400,119.18
+368,2025-09-03,Customer_140,West,Office Supplies,Stapler,1,100,100,23.44
+369,2025-10-02,Customer_197,North,Office Supplies,Pen,4,800,3200,723.94
+370,2025-03-27,Customer_145,North,Office Supplies,Marker,7,100,700,204.72
+371,2025-08-09,Customer_67,North,Electronics,Laptop,4,500,2000,488.62
+372,2025-10-13,Customer_115,South,Office Supplies,Marker,6,200,1200,218.25
+373,2025-12-14,Customer_89,South,Office Supplies,Marker,1,200,200,20.6
+374,2025-08-01,Customer_90,South,Electronics,Laptop,5,100,500,90.09
+375,2025-04-16,Customer_122,East,Office Supplies,Stapler,2,200,400,95.54
+376,2025-08-20,Customer_12,East,Furniture,Chair,2,20,40,10.67
+377,2025-11-28,Customer_133,South,Electronics,Mouse,3,500,1500,172.84
+378,2025-10-14,Customer_104,South,Furniture,Cabinet,3,50,150,33.14
+379,2025-08-10,Customer_116,South,Furniture,Chair,10,200,2000,331.09
+380,2025-12-27,Customer_193,East,Electronics,Mouse,2,500,1000,102.39
+381,2025-10-02,Customer_51,East,Electronics,Keyboard,8,20,160,22.03
+382,2025-09-08,Customer_157,West,Office Supplies,Paper,7,500,3500,367.96
+383,2025-06-30,Customer_173,South,Furniture,Bookshelf,5,500,2500,524.59
+384,2025-12-11,Customer_62,North,Electronics,Keyboard,5,20,100,12.03
+385,2025-12-22,Customer_108,West,Electronics,Headphones,10,50,500,103.23
+386,2025-08-05,Customer_143,South,Electronics,Monitor,3,200,600,86.13
+387,2025-04-06,Customer_92,North,Furniture,Cabinet,1,200,200,22.01
+388,2025-07-16,Customer_105,West,Office Supplies,Marker,8,200,1600,377.97
+389,2025-08-16,Customer_145,North,Furniture,Desk,1,50,50,7.21
+390,2025-05-21,Customer_44,East,Electronics,Headphones,8,500,4000,973.42
+391,2025-09-11,Customer_147,North,Office Supplies,Marker,2,100,200,50.1
+392,2025-07-07,Customer_140,West,Office Supplies,Pen,4,200,800,82.03
+393,2025-12-01,Customer_116,North,Electronics,Keyboard,5,100,500,134.84
+394,2025-02-14,Customer_54,South,Furniture,Chair,10,800,8000,1257.11
+395,2025-12-30,Customer_158,South,Office Supplies,Stapler,3,50,150,38.85
+396,2025-01-31,Customer_153,East,Office Supplies,Paper,9,50,450,68.04
+397,2025-12-27,Customer_132,East,Furniture,Table,2,50,100,29.18
+398,2025-07-30,Customer_180,South,Electronics,Keyboard,3,50,150,16.83
+399,2025-06-14,Customer_37,West,Electronics,Monitor,10,800,8000,1112.94
+400,2025-08-01,Customer_163,North,Furniture,Cabinet,2,200,400,77.37
+401,2025-05-23,Customer_125,West,Office Supplies,Paper,6,500,3000,241.63
+402,2025-02-17,Customer_17,East,Office Supplies,Stapler,9,200,1800,230.26
+403,2025-08-08,Customer_83,East,Electronics,Monitor,5,100,500,100.2
+404,2025-03-08,Customer_175,East,Office Supplies,Stapler,1,20,20,2.04
+405,2025-08-24,Customer_113,South,Electronics,Laptop,8,20,160,47.71
+406,2025-08-08,Customer_41,East,Electronics,Mouse,5,20,100,22.4
+407,2025-05-09,Customer_14,South,Electronics,Keyboard,7,800,5600,824.39
+408,2025-12-25,Customer_181,North,Electronics,Monitor,2,20,40,5.08
+409,2025-02-09,Customer_133,South,Electronics,Headphones,8,20,160,13.08
+410,2025-06-25,Customer_123,South,Electronics,Monitor,2,50,100,16.43
+411,2025-02-22,Customer_77,East,Electronics,Keyboard,3,200,600,150.1
+412,2025-03-10,Customer_136,North,Office Supplies,Notebook,10,20,200,42.85
+413,2025-03-26,Customer_161,South,Furniture,Table,3,200,600,129.32
+414,2025-08-15,Customer_36,North,Electronics,Laptop,2,500,1000,240.6
+415,2025-06-29,Customer_64,South,Furniture,Table,5,800,4000,394.14
+416,2025-10-11,Customer_200,East,Office Supplies,Marker,1,800,800,218.15
+417,2025-04-16,Customer_192,South,Office Supplies,Marker,7,100,700,155.51
+418,2025-05-03,Customer_62,North,Furniture,Cabinet,8,800,6400,1348.25
+419,2025-09-28,Customer_34,East,Electronics,Keyboard,7,500,3500,604.06
+420,2025-10-07,Customer_198,West,Office Supplies,Notebook,2,20,40,8.37
+421,2025-01-08,Customer_16,North,Furniture,Desk,7,500,3500,500.6
+422,2025-12-31,Customer_180,West,Office Supplies,Stapler,7,20,140,30.93
+423,2025-10-03,Customer_22,East,Office Supplies,Notebook,5,20,100,19.25
+424,2025-04-15,Customer_101,East,Electronics,Headphones,10,800,8000,1983.27
+425,2025-11-29,Customer_179,East,Office Supplies,Pen,7,800,5600,1622.62
+426,2025-05-03,Customer_112,North,Electronics,Mouse,2,200,400,85.88
+427,2025-01-29,Customer_4,North,Furniture,Desk,3,800,2400,197.99
+428,2025-09-12,Customer_43,East,Furniture,Bookshelf,6,50,300,73.49
+429,2025-05-18,Customer_86,North,Office Supplies,Pen,7,100,700,136.67
+430,2025-05-15,Customer_128,North,Office Supplies,Marker,8,500,4000,636.91
+431,2025-09-13,Customer_41,East,Office Supplies,Notebook,5,20,100,27.67
+432,2025-12-12,Customer_190,South,Office Supplies,Pen,9,20,180,16.14
+433,2025-01-07,Customer_94,West,Electronics,Laptop,7,50,350,41.78
+434,2025-01-19,Customer_83,South,Office Supplies,Stapler,4,200,800,225.19
+435,2025-06-13,Customer_31,East,Furniture,Chair,9,800,7200,2004.67
+436,2025-04-02,Customer_103,North,Electronics,Headphones,2,200,400,108.21
+437,2025-06-09,Customer_3,West,Furniture,Chair,6,50,300,43.25
+438,2025-06-05,Customer_119,South,Office Supplies,Marker,6,500,3000,881.43
+439,2025-04-11,Customer_39,South,Office Supplies,Marker,1,200,200,17.05
+440,2025-10-05,Customer_1,East,Furniture,Chair,7,800,5600,1343.93
+441,2025-02-23,Customer_108,South,Electronics,Headphones,8,20,160,47.03
+442,2025-03-14,Customer_12,North,Office Supplies,Paper,4,500,2000,341.74
+443,2025-07-10,Customer_130,North,Furniture,Chair,3,800,2400,624.94
+444,2025-02-08,Customer_112,North,Office Supplies,Marker,3,50,150,21.63
+445,2025-06-11,Customer_116,East,Furniture,Table,5,50,250,24.11
+446,2025-04-14,Customer_40,North,Electronics,Headphones,2,50,100,17.89
+447,2025-06-10,Customer_198,East,Furniture,Chair,4,200,800,118.26
+448,2025-05-16,Customer_176,South,Electronics,Laptop,5,800,4000,933.25
+449,2025-01-21,Customer_24,South,Electronics,Keyboard,4,100,400,66.87
+450,2025-01-26,Customer_45,East,Office Supplies,Paper,1,200,200,53.6
+451,2025-10-12,Customer_25,South,Office Supplies,Marker,8,20,160,41.1
+452,2025-03-13,Customer_200,North,Electronics,Laptop,4,50,200,24.72
+453,2025-07-25,Customer_20,East,Furniture,Chair,1,20,20,2.47
+454,2025-11-27,Customer_85,North,Furniture,Desk,2,20,40,11.49
+455,2025-01-26,Customer_186,West,Electronics,Headphones,7,200,1400,121.08
+456,2025-12-16,Customer_55,East,Furniture,Desk,3,100,300,42.47
+457,2025-03-18,Customer_166,South,Electronics,Headphones,5,200,1000,170.64
+458,2025-10-09,Customer_72,North,Furniture,Chair,7,50,350,60.28
+459,2025-11-26,Customer_98,North,Office Supplies,Notebook,6,200,1200,239.75
+460,2025-09-06,Customer_100,East,Furniture,Bookshelf,5,50,250,21.43
+461,2025-11-02,Customer_15,East,Electronics,Laptop,8,500,4000,634.54
+462,2025-10-27,Customer_64,North,Electronics,Mouse,4,100,400,78.96
+463,2025-01-29,Customer_91,West,Electronics,Headphones,3,50,150,19.81
+464,2025-06-12,Customer_181,North,Office Supplies,Paper,6,500,3000,611.98
+465,2025-10-16,Customer_45,East,Electronics,Monitor,8,20,160,15.98
+466,2025-04-30,Customer_135,North,Office Supplies,Notebook,8,20,160,24.48
+467,2025-11-11,Customer_184,East,Electronics,Mouse,3,100,300,27.93
+468,2025-03-17,Customer_135,North,Office Supplies,Notebook,6,20,120,19.46
+469,2025-12-06,Customer_87,North,Furniture,Bookshelf,5,100,500,55.01
+470,2025-03-22,Customer_167,West,Office Supplies,Stapler,6,50,300,70.67
+471,2025-10-15,Customer_58,East,Office Supplies,Marker,10,50,500,81.62
+472,2025-12-19,Customer_187,South,Furniture,Desk,1,800,800,230.97
+473,2025-07-20,Customer_155,South,Office Supplies,Pen,6,500,3000,385.79
+474,2025-10-17,Customer_85,South,Electronics,Monitor,2,50,100,15.63
+475,2025-06-13,Customer_115,East,Electronics,Laptop,1,100,100,12.61
+476,2025-12-21,Customer_28,East,Electronics,Keyboard,1,20,20,3.3
+477,2025-08-03,Customer_97,West,Electronics,Monitor,6,500,3000,487.73
+478,2025-09-03,Customer_116,South,Office Supplies,Notebook,2,20,40,5.8
+479,2025-06-13,Customer_88,North,Furniture,Chair,3,200,600,69.24
+480,2025-02-08,Customer_153,East,Office Supplies,Pen,10,200,2000,469.98
+481,2025-08-09,Customer_41,West,Office Supplies,Notebook,1,20,20,3.06
+482,2025-04-08,Customer_170,East,Furniture,Bookshelf,5,100,500,66.13
+483,2025-01-26,Customer_40,West,Furniture,Bookshelf,1,100,100,8.08
+484,2025-02-14,Customer_52,West,Furniture,Bookshelf,2,20,40,5.02
+485,2025-11-23,Customer_30,West,Furniture,Chair,5,200,1000,183.61
+486,2025-12-05,Customer_48,West,Furniture,Chair,6,200,1200,193.52
+487,2025-08-17,Customer_120,West,Electronics,Keyboard,5,50,250,66.04
+488,2025-10-16,Customer_22,North,Electronics,Mouse,6,500,3000,513.23
+489,2025-10-29,Customer_100,North,Electronics,Headphones,9,200,1800,526.39
+490,2025-12-18,Customer_122,South,Furniture,Bookshelf,5,20,100,16.69
+491,2025-01-18,Customer_31,South,Office Supplies,Marker,8,50,400,115.52
+492,2025-03-27,Customer_11,South,Electronics,Mouse,7,20,140,41.64
+493,2025-08-11,Customer_82,East,Electronics,Mouse,2,20,40,6.62
+494,2025-07-23,Customer_134,East,Office Supplies,Paper,8,20,160,40.49
+495,2025-11-16,Customer_29,West,Office Supplies,Marker,7,50,350,39.41
+496,2025-10-29,Customer_145,North,Office Supplies,Pen,2,100,200,54.17
+497,2025-06-26,Customer_168,West,Furniture,Table,8,500,4000,855.89
+498,2025-01-20,Customer_37,West,Electronics,Keyboard,10,500,5000,1148.89
+499,2025-07-25,Customer_177,East,Electronics,Monitor,4,20,80,19.53
+500,2025-05-18,Customer_78,East,Furniture,Chair,5,100,500,132.71
+501,2025-12-23,Customer_35,South,Office Supplies,Pen,5,800,4000,709.94
+502,2025-06-14,Customer_49,North,Furniture,Cabinet,8,50,400,112.38
+503,2025-07-28,Customer_15,East,Office Supplies,Stapler,9,50,450,42.5
+504,2025-12-30,Customer_200,South,Office Supplies,Stapler,9,500,4500,388.66
+505,2025-04-09,Customer_9,South,Electronics,Laptop,8,20,160,45.11
+506,2025-12-27,Customer_119,East,Electronics,Keyboard,9,200,1800,395.62
+507,2025-03-05,Customer_96,South,Office Supplies,Pen,8,500,4000,712.57
+508,2025-08-31,Customer_89,East,Office Supplies,Marker,3,100,300,73.43
+509,2025-12-19,Customer_99,North,Electronics,Keyboard,1,50,50,13.39
+510,2025-04-20,Customer_69,South,Electronics,Mouse,7,500,3500,295.44
+511,2025-12-16,Customer_166,South,Electronics,Monitor,3,500,1500,384.29
+512,2025-04-25,Customer_183,East,Furniture,Bookshelf,5,200,1000,277.01
+513,2025-06-28,Customer_120,South,Furniture,Table,5,800,4000,778.16
+514,2025-11-16,Customer_2,North,Furniture,Bookshelf,9,800,7200,2106.91
+515,2025-07-11,Customer_77,East,Office Supplies,Marker,2,200,400,37.62
+516,2025-05-22,Customer_67,East,Office Supplies,Paper,5,50,250,28.25
+517,2025-05-04,Customer_170,West,Electronics,Headphones,6,800,4800,531.77
+518,2025-01-14,Customer_67,East,Office Supplies,Stapler,7,200,1400,231.59
+519,2025-01-19,Customer_88,South,Office Supplies,Marker,4,800,3200,632.38
+520,2025-09-01,Customer_44,East,Office Supplies,Paper,9,50,450,65.08
+521,2025-08-30,Customer_175,South,Electronics,Keyboard,6,800,4800,478.3
+522,2025-07-01,Customer_85,West,Electronics,Keyboard,6,100,600,125.3
+523,2025-08-26,Customer_163,North,Electronics,Monitor,10,500,5000,1438.73
+524,2025-02-06,Customer_175,North,Furniture,Desk,7,500,3500,509.73
+525,2025-01-28,Customer_88,South,Electronics,Mouse,7,500,3500,967.49
+526,2025-08-23,Customer_200,South,Electronics,Keyboard,2,200,400,61.27
+527,2025-04-01,Customer_116,North,Furniture,Chair,5,50,250,61.87
+528,2025-03-28,Customer_196,West,Office Supplies,Notebook,2,50,100,21.52
+529,2025-11-21,Customer_123,West,Furniture,Cabinet,7,20,140,12.36
+530,2025-04-13,Customer_83,North,Office Supplies,Paper,9,50,450,37.77
+531,2025-01-03,Customer_178,South,Office Supplies,Notebook,6,100,600,65.02
+532,2025-07-16,Customer_43,East,Office Supplies,Marker,2,20,40,5.82
+533,2025-05-29,Customer_112,East,Furniture,Bookshelf,3,100,300,89.75
+534,2025-09-08,Customer_104,South,Furniture,Desk,1,50,50,6.47
+535,2025-03-09,Customer_32,South,Electronics,Laptop,6,800,4800,1070.97
+536,2025-01-20,Customer_153,North,Furniture,Table,1,800,800,83.03
+537,2025-01-11,Customer_114,West,Electronics,Laptop,7,20,140,28.06
+538,2025-08-31,Customer_178,South,Office Supplies,Notebook,1,100,100,17.26
+539,2025-02-21,Customer_160,East,Office Supplies,Marker,10,800,8000,881.41
+540,2025-02-23,Customer_73,North,Office Supplies,Marker,2,20,40,7.58
+541,2025-11-08,Customer_92,South,Electronics,Keyboard,7,100,700,80.7
+542,2025-10-08,Customer_85,West,Furniture,Desk,4,20,80,6.62
+543,2025-02-15,Customer_39,West,Electronics,Headphones,2,500,1000,96.51
+544,2025-02-21,Customer_76,West,Furniture,Desk,5,200,1000,91.02
+545,2025-03-31,Customer_174,East,Electronics,Keyboard,6,200,1200,290.97
+546,2025-02-18,Customer_170,South,Electronics,Laptop,3,100,300,47.6
+547,2025-08-13,Customer_96,North,Office Supplies,Paper,6,50,300,31.51
+548,2025-07-24,Customer_177,West,Furniture,Table,8,200,1600,356.39
+549,2025-03-27,Customer_41,North,Electronics,Mouse,2,200,400,112.19
+550,2025-09-05,Customer_157,South,Office Supplies,Stapler,7,100,700,150.15
+551,2025-12-17,Customer_125,West,Office Supplies,Notebook,2,200,400,70.78
+552,2025-02-02,Customer_181,North,Furniture,Table,9,800,7200,1489.41
+553,2025-10-17,Customer_111,North,Electronics,Keyboard,4,200,800,124.85
+554,2025-12-13,Customer_143,South,Office Supplies,Stapler,10,20,200,16.51
+555,2025-03-22,Customer_43,West,Office Supplies,Stapler,2,200,400,60.22
+556,2025-06-19,Customer_141,South,Furniture,Chair,7,200,1400,363.67
+557,2025-02-10,Customer_23,West,Furniture,Cabinet,8,200,1600,239.25
+558,2025-09-12,Customer_104,North,Office Supplies,Pen,7,20,140,28.36
+559,2025-01-01,Customer_131,East,Electronics,Headphones,9,50,450,100.81
+560,2025-08-22,Customer_58,North,Furniture,Table,8,100,800,162.59
+561,2025-11-14,Customer_184,East,Office Supplies,Stapler,8,20,160,16.23
+562,2025-12-04,Customer_91,East,Electronics,Laptop,5,500,2500,487.09
+563,2025-12-26,Customer_127,South,Electronics,Laptop,3,800,2400,584.05
+564,2025-07-29,Customer_49,South,Electronics,Keyboard,2,200,400,50.97
+565,2025-04-08,Customer_194,North,Office Supplies,Paper,7,20,140,39.74
+566,2025-12-11,Customer_118,West,Office Supplies,Pen,10,500,5000,548.1
+567,2025-09-13,Customer_142,North,Electronics,Headphones,7,500,3500,651.86
+568,2025-09-18,Customer_188,South,Electronics,Headphones,3,20,60,9.91
+569,2025-11-04,Customer_108,West,Office Supplies,Paper,10,800,8000,1981.78
+570,2025-05-21,Customer_116,East,Furniture,Table,3,50,150,25.62
+571,2025-12-25,Customer_180,East,Office Supplies,Marker,9,100,900,212.95
+572,2025-10-11,Customer_54,South,Office Supplies,Notebook,10,800,8000,1151.42
+573,2025-06-26,Customer_129,South,Office Supplies,Notebook,9,800,7200,1584.81
+574,2025-12-30,Customer_150,West,Electronics,Keyboard,10,800,8000,1889.82
+575,2025-12-12,Customer_109,East,Office Supplies,Marker,1,500,500,51.71
+576,2025-07-15,Customer_52,North,Electronics,Laptop,5,50,250,74.09
+577,2025-12-16,Customer_177,North,Furniture,Desk,5,50,250,61.45
+578,2025-01-17,Customer_158,North,Furniture,Cabinet,9,50,450,109.5
+579,2025-10-15,Customer_178,East,Furniture,Desk,1,200,200,33.05
+580,2025-12-17,Customer_4,North,Furniture,Bookshelf,5,50,250,54.13
+581,2025-08-15,Customer_199,South,Electronics,Keyboard,4,100,400,71.5
+582,2025-12-16,Customer_189,South,Electronics,Mouse,9,20,180,29.34
+583,2025-08-08,Customer_34,East,Furniture,Bookshelf,3,500,1500,399.18
+584,2025-01-03,Customer_11,South,Furniture,Cabinet,3,100,300,63.39
+585,2025-11-17,Customer_147,West,Office Supplies,Paper,9,100,900,86.43
+586,2025-12-29,Customer_48,South,Furniture,Bookshelf,9,20,180,45.54
+587,2025-03-23,Customer_24,West,Furniture,Bookshelf,6,50,300,82.3
+588,2025-12-06,Customer_76,East,Furniture,Table,4,500,2000,393.42
+589,2025-10-15,Customer_172,North,Office Supplies,Pen,6,200,1200,159.45
+590,2025-11-25,Customer_11,South,Office Supplies,Marker,6,200,1200,337.81
+591,2025-02-28,Customer_7,East,Furniture,Table,9,100,900,173.83
+592,2025-09-18,Customer_76,North,Furniture,Cabinet,4,100,400,77.22
+593,2025-02-19,Customer_161,North,Electronics,Headphones,2,50,100,22.75
+594,2025-04-20,Customer_53,North,Office Supplies,Stapler,9,800,7200,1967.76
+595,2025-08-11,Customer_7,South,Office Supplies,Pen,8,800,6400,979.06
+596,2025-02-14,Customer_65,South,Electronics,Laptop,9,20,180,37.17
+597,2025-04-27,Customer_116,West,Furniture,Cabinet,7,200,1400,209.45
+598,2025-07-19,Customer_165,North,Office Supplies,Pen,10,20,200,49.26
+599,2025-10-27,Customer_129,East,Electronics,Laptop,2,100,200,50.62
+600,2025-06-04,Customer_196,East,Office Supplies,Pen,8,200,1600,267.08
+601,2025-12-05,Customer_137,South,Electronics,Monitor,4,50,200,48.86
+602,2025-10-07,Customer_174,East,Furniture,Desk,6,20,120,24.21
+603,2025-10-12,Customer_2,North,Electronics,Laptop,10,500,5000,833.49
+604,2025-10-08,Customer_192,South,Electronics,Keyboard,6,50,300,51.24
+605,2025-11-27,Customer_48,South,Office Supplies,Notebook,4,500,2000,527.29
+606,2025-04-10,Customer_193,North,Electronics,Mouse,9,200,1800,399.29
+607,2025-02-07,Customer_26,East,Furniture,Chair,4,800,3200,664.74
+608,2025-06-19,Customer_26,South,Furniture,Desk,5,500,2500,238.39
+609,2025-04-10,Customer_85,West,Furniture,Cabinet,10,800,8000,1177.99
+610,2025-10-27,Customer_81,East,Electronics,Headphones,7,50,350,28.37
+611,2025-05-07,Customer_93,East,Electronics,Monitor,3,800,2400,579.01
+612,2025-09-03,Customer_199,East,Furniture,Cabinet,5,200,1000,201.37
+613,2025-03-31,Customer_72,North,Office Supplies,Marker,3,500,1500,184.82
+614,2025-11-17,Customer_130,North,Electronics,Laptop,1,500,500,103.68
+615,2025-10-30,Customer_140,East,Electronics,Laptop,9,200,1800,402.95
+616,2025-03-18,Customer_198,South,Furniture,Cabinet,10,800,8000,2148.61
+617,2025-03-10,Customer_102,North,Furniture,Bookshelf,6,500,3000,246.99
+618,2025-05-03,Customer_115,South,Office Supplies,Notebook,3,50,150,30.69
+619,2025-10-17,Customer_92,West,Office Supplies,Notebook,1,50,50,12.38
+620,2025-04-29,Customer_60,East,Electronics,Keyboard,1,800,800,100.39
+621,2025-07-04,Customer_12,West,Furniture,Cabinet,1,800,800,121.04
+622,2025-12-27,Customer_149,East,Office Supplies,Paper,9,500,4500,532.11
+623,2025-12-01,Customer_133,North,Furniture,Table,5,200,1000,293.99
+624,2025-04-25,Customer_89,East,Office Supplies,Stapler,8,200,1600,440.28
+625,2025-01-04,Customer_43,West,Office Supplies,Notebook,4,20,80,15.46
+626,2025-05-24,Customer_41,South,Electronics,Mouse,6,500,3000,713.42
+627,2025-03-02,Customer_85,West,Office Supplies,Notebook,2,200,400,91.42
+628,2025-09-03,Customer_166,South,Electronics,Headphones,7,20,140,18.71
+629,2025-03-07,Customer_35,South,Office Supplies,Marker,9,20,180,49.68
+630,2025-03-17,Customer_47,East,Electronics,Mouse,9,200,1800,381.35
+631,2025-10-16,Customer_22,East,Office Supplies,Pen,4,200,800,170.75
+632,2025-08-30,Customer_106,South,Furniture,Desk,10,50,500,127.41
+633,2025-04-04,Customer_43,East,Office Supplies,Marker,6,200,1200,253.48
+634,2025-02-05,Customer_34,West,Electronics,Monitor,2,20,40,4.98
+635,2025-09-16,Customer_156,South,Office Supplies,Stapler,2,50,100,18.47
+636,2025-11-11,Customer_24,North,Office Supplies,Pen,8,800,6400,695.5
+637,2025-11-05,Customer_134,West,Office Supplies,Pen,7,100,700,190.72
+638,2025-12-24,Customer_124,South,Office Supplies,Stapler,7,100,700,146.71
+639,2025-12-23,Customer_35,West,Office Supplies,Pen,5,200,1000,248.49
+640,2025-02-12,Customer_66,West,Furniture,Bookshelf,4,20,80,18.88
+641,2025-01-04,Customer_134,North,Office Supplies,Marker,1,200,200,44.8
+642,2025-12-19,Customer_28,East,Furniture,Cabinet,3,200,600,134.01
+643,2025-05-10,Customer_145,West,Furniture,Bookshelf,6,500,3000,421.87
+644,2025-12-15,Customer_142,West,Furniture,Desk,9,200,1800,214.77
+645,2025-10-14,Customer_79,East,Office Supplies,Stapler,10,100,1000,250.32
+646,2025-07-23,Customer_192,North,Office Supplies,Notebook,4,200,800,201.83
+647,2025-03-24,Customer_87,West,Electronics,Mouse,9,500,4500,1050.09
+648,2025-12-28,Customer_163,West,Electronics,Mouse,1,20,20,5.22
+649,2025-08-30,Customer_17,North,Office Supplies,Stapler,5,50,250,40.4
+650,2025-11-08,Customer_158,West,Electronics,Monitor,9,100,900,212.9
+651,2025-11-02,Customer_113,West,Electronics,Mouse,1,50,50,13.36
+652,2025-09-23,Customer_154,North,Furniture,Desk,9,500,4500,1051.47
+653,2025-11-11,Customer_62,East,Electronics,Laptop,1,50,50,4.96
+654,2025-05-22,Customer_104,West,Furniture,Table,10,50,500,96.95
+655,2025-12-27,Customer_186,East,Electronics,Laptop,9,500,4500,704.61
+656,2025-05-22,Customer_117,South,Electronics,Headphones,7,500,3500,283.58
+657,2025-03-31,Customer_144,North,Furniture,Bookshelf,2,500,1000,144.74
+658,2025-03-01,Customer_178,East,Office Supplies,Paper,8,200,1600,326.24
+659,2025-05-05,Customer_151,West,Furniture,Cabinet,1,200,200,21.12
+660,2025-02-04,Customer_81,South,Furniture,Desk,7,100,700,135.54
+661,2025-01-05,Customer_74,South,Office Supplies,Paper,2,200,400,91.29
+662,2025-06-25,Customer_122,South,Electronics,Headphones,6,100,600,76.85
+663,2025-10-21,Customer_128,South,Furniture,Desk,4,50,200,48.36
+664,2025-05-16,Customer_64,South,Electronics,Mouse,10,100,1000,114.32
+665,2025-02-24,Customer_158,West,Electronics,Laptop,1,500,500,145.38
+666,2025-09-04,Customer_127,East,Furniture,Bookshelf,10,100,1000,187.98
+667,2025-09-19,Customer_193,South,Furniture,Cabinet,10,50,500,45.96
+668,2025-08-05,Customer_129,North,Furniture,Bookshelf,6,200,1200,323.15
+669,2025-03-31,Customer_81,West,Furniture,Chair,1,20,20,4.57
+670,2025-07-14,Customer_93,East,Office Supplies,Pen,10,100,1000,121.17
+671,2025-05-15,Customer_157,West,Electronics,Keyboard,6,100,600,72.28
+672,2025-08-06,Customer_94,East,Electronics,Monitor,7,100,700,125.41
+673,2025-10-20,Customer_26,South,Electronics,Headphones,5,50,250,50.54
+674,2025-07-15,Customer_122,South,Electronics,Mouse,1,50,50,8.64
+675,2025-03-10,Customer_125,East,Office Supplies,Marker,5,100,500,101.84
+676,2025-10-18,Customer_177,North,Electronics,Monitor,3,20,60,7.64
+677,2025-05-11,Customer_191,West,Furniture,Chair,6,100,600,95.65
+678,2025-10-14,Customer_6,East,Office Supplies,Paper,7,20,140,22.01
+679,2025-12-14,Customer_200,South,Office Supplies,Notebook,5,100,500,75.76
+680,2025-09-19,Customer_98,North,Furniture,Cabinet,10,100,1000,182.03
+681,2025-03-16,Customer_162,West,Electronics,Keyboard,10,500,5000,845.25
+682,2025-02-06,Customer_59,East,Electronics,Mouse,6,100,600,134.2
+683,2025-12-30,Customer_70,West,Furniture,Bookshelf,8,100,800,195.63
+684,2025-09-24,Customer_48,South,Furniture,Cabinet,1,50,50,12.01
+685,2025-12-05,Customer_43,South,Furniture,Chair,7,20,140,14.14
+686,2025-08-31,Customer_198,North,Office Supplies,Pen,7,500,3500,869.05
+687,2025-02-12,Customer_22,South,Electronics,Keyboard,7,100,700,91.32
+688,2025-05-26,Customer_135,South,Furniture,Desk,3,20,60,5.26
+689,2025-07-02,Customer_139,West,Furniture,Cabinet,5,500,2500,444.66
+690,2025-12-24,Customer_162,West,Office Supplies,Notebook,10,200,2000,390.32
+691,2025-11-24,Customer_124,East,Office Supplies,Paper,9,50,450,115.67
+692,2025-08-15,Customer_67,West,Furniture,Table,3,100,300,24.7
+693,2025-09-25,Customer_121,East,Electronics,Keyboard,9,20,180,41.64
+694,2025-09-09,Customer_197,North,Furniture,Table,7,100,700,147.94
+695,2025-01-04,Customer_106,South,Office Supplies,Paper,9,200,1800,300.32
+696,2025-03-25,Customer_57,West,Office Supplies,Stapler,5,20,100,17.29
+697,2025-05-03,Customer_73,East,Office Supplies,Marker,9,100,900,153.75
+698,2025-02-05,Customer_29,East,Electronics,Mouse,8,500,4000,718.44
+699,2025-12-25,Customer_83,South,Office Supplies,Stapler,1,50,50,4.55
+700,2025-10-01,Customer_73,North,Electronics,Mouse,5,50,250,59.34
+701,2025-01-05,Customer_4,South,Electronics,Laptop,8,50,400,62.09
+702,2025-06-09,Customer_179,West,Furniture,Table,1,100,100,9.76
+703,2025-03-16,Customer_19,West,Electronics,Keyboard,9,200,1800,215.92
+704,2025-05-09,Customer_197,North,Furniture,Chair,4,200,800,199.74
+705,2025-08-15,Customer_118,South,Electronics,Laptop,2,500,1000,226.52
+706,2025-04-17,Customer_83,East,Furniture,Cabinet,3,800,2400,576.51
+707,2025-10-09,Customer_124,East,Office Supplies,Pen,5,50,250,39.82
+708,2025-01-27,Customer_61,North,Office Supplies,Notebook,7,100,700,58.32
+709,2025-05-22,Customer_63,West,Office Supplies,Pen,1,20,20,4.16
+710,2025-12-20,Customer_96,South,Furniture,Bookshelf,2,50,100,11.47
+711,2025-02-16,Customer_195,East,Office Supplies,Marker,1,20,20,3.16
+712,2025-03-20,Customer_33,North,Office Supplies,Marker,8,50,400,59.87
+713,2025-10-13,Customer_188,West,Office Supplies,Paper,4,20,80,18.53
+714,2025-07-03,Customer_11,East,Office Supplies,Notebook,8,800,6400,1128.0
+715,2025-05-31,Customer_146,South,Office Supplies,Stapler,3,500,1500,234.73
+716,2025-08-28,Customer_18,South,Furniture,Bookshelf,9,50,450,80.49
+717,2025-05-15,Customer_1,West,Office Supplies,Paper,9,200,1800,434.53
+718,2025-01-10,Customer_83,South,Office Supplies,Paper,2,800,1600,468.44
+719,2025-07-18,Customer_197,West,Electronics,Headphones,9,50,450,96.69
+720,2025-06-15,Customer_25,North,Furniture,Table,9,800,7200,681.62
+721,2025-03-08,Customer_28,South,Electronics,Laptop,8,50,400,40.69
+722,2025-10-20,Customer_135,West,Office Supplies,Stapler,10,800,8000,1678.93
+723,2025-01-26,Customer_4,North,Furniture,Desk,4,800,3200,601.95
+724,2025-02-10,Customer_143,East,Furniture,Chair,7,100,700,178.31
+725,2025-01-30,Customer_188,North,Office Supplies,Paper,2,100,200,19.43
+726,2025-04-21,Customer_186,North,Office Supplies,Pen,4,500,2000,329.55
+727,2025-04-09,Customer_143,South,Office Supplies,Notebook,9,200,1800,439.46
+728,2025-11-23,Customer_180,West,Office Supplies,Paper,7,20,140,16.34
+729,2025-04-03,Customer_169,East,Office Supplies,Stapler,3,500,1500,449.48
+730,2025-08-15,Customer_96,East,Furniture,Table,7,800,5600,978.48
+731,2025-06-15,Customer_97,South,Office Supplies,Notebook,9,800,7200,978.48
+732,2025-08-20,Customer_186,North,Furniture,Cabinet,1,100,100,21.11
+733,2025-09-23,Customer_77,North,Electronics,Keyboard,4,50,200,53.65
+734,2025-01-12,Customer_25,South,Office Supplies,Paper,1,200,200,31.65
+735,2025-03-12,Customer_60,South,Furniture,Table,5,100,500,50.11
+736,2025-07-24,Customer_186,North,Office Supplies,Notebook,6,200,1200,141.65
+737,2025-12-20,Customer_153,North,Office Supplies,Marker,5,20,100,24.08
+738,2025-10-23,Customer_198,North,Furniture,Chair,6,100,600,164.13
+739,2025-08-11,Customer_192,South,Furniture,Chair,10,20,200,43.89
+740,2025-11-20,Customer_135,East,Furniture,Chair,1,100,100,19.88
+741,2025-03-18,Customer_40,South,Furniture,Bookshelf,1,800,800,192.76
+742,2025-07-21,Customer_57,North,Furniture,Bookshelf,7,100,700,177.1
+743,2025-03-17,Customer_122,North,Electronics,Keyboard,10,800,8000,726.79
+744,2025-07-24,Customer_129,West,Furniture,Chair,7,800,5600,608.62
+745,2025-03-11,Customer_125,South,Furniture,Bookshelf,7,800,5600,1151.88
+746,2025-10-15,Customer_63,South,Office Supplies,Marker,2,100,200,50.18
+747,2025-06-15,Customer_29,North,Office Supplies,Marker,7,200,1400,224.5
+748,2025-04-08,Customer_198,North,Furniture,Table,5,50,250,74.32
+749,2025-11-12,Customer_113,South,Furniture,Bookshelf,1,50,50,6.2
+750,2025-07-11,Customer_190,North,Electronics,Laptop,1,50,50,14.44
+751,2025-03-17,Customer_178,East,Furniture,Chair,2,100,200,35.8
+752,2025-01-12,Customer_53,South,Furniture,Desk,9,500,4500,1102.85
+753,2025-10-08,Customer_178,South,Furniture,Bookshelf,1,200,200,41.65
+754,2025-12-06,Customer_44,East,Office Supplies,Pen,1,100,100,12.42
+755,2025-12-23,Customer_120,North,Office Supplies,Paper,1,20,20,3.31
+756,2025-05-19,Customer_5,North,Office Supplies,Paper,5,800,4000,660.14
+757,2025-07-14,Customer_125,East,Office Supplies,Pen,10,500,5000,496.82
+758,2025-04-12,Customer_11,North,Office Supplies,Stapler,4,500,2000,294.17
+759,2025-09-08,Customer_89,North,Furniture,Desk,6,100,600,130.53
+760,2025-05-01,Customer_161,North,Office Supplies,Paper,5,200,1000,275.89
+761,2025-01-16,Customer_39,South,Office Supplies,Paper,6,200,1200,269.43
+762,2025-02-14,Customer_107,South,Office Supplies,Stapler,4,500,2000,227.21
+763,2025-06-09,Customer_139,West,Office Supplies,Paper,3,50,150,33.53
+764,2025-10-25,Customer_80,South,Office Supplies,Notebook,9,50,450,78.58
+765,2025-03-16,Customer_82,South,Office Supplies,Marker,2,500,1000,197.25
+766,2025-03-02,Customer_187,South,Electronics,Keyboard,1,100,100,27.36
+767,2025-07-31,Customer_191,West,Furniture,Table,5,50,250,62.85
+768,2025-02-24,Customer_196,North,Electronics,Mouse,10,500,5000,693.55
+769,2025-10-18,Customer_60,South,Office Supplies,Notebook,1,100,100,9.75
+770,2025-09-02,Customer_183,West,Electronics,Headphones,6,50,300,80.24
+771,2025-09-09,Customer_50,South,Furniture,Desk,4,20,80,13.59
+772,2025-01-08,Customer_191,South,Furniture,Cabinet,4,50,200,18.91
+773,2025-08-13,Customer_118,East,Office Supplies,Stapler,4,200,800,135.26
+774,2025-01-22,Customer_101,East,Office Supplies,Stapler,10,800,8000,1646.6
+775,2025-10-02,Customer_116,North,Office Supplies,Pen,8,20,160,43.7
+776,2025-05-06,Customer_189,West,Office Supplies,Marker,1,500,500,82.61
+777,2025-11-19,Customer_113,East,Electronics,Mouse,7,100,700,175.15
+778,2025-05-27,Customer_76,West,Furniture,Desk,10,20,200,46.36
+779,2025-03-14,Customer_185,North,Furniture,Cabinet,9,20,180,21.52
+780,2025-10-27,Customer_101,South,Office Supplies,Marker,7,100,700,125.44
+781,2025-04-02,Customer_117,South,Furniture,Bookshelf,2,100,200,30.26
+782,2025-11-29,Customer_24,North,Office Supplies,Notebook,2,800,1600,286.19
+783,2025-07-05,Customer_187,West,Electronics,Headphones,9,500,4500,1300.26
+784,2025-07-13,Customer_197,North,Office Supplies,Stapler,3,100,300,61.32
+785,2025-12-04,Customer_46,South,Electronics,Mouse,1,200,200,29.55
+786,2025-08-17,Customer_34,North,Furniture,Desk,4,20,80,17.36
+787,2025-05-10,Customer_128,West,Electronics,Monitor,9,20,180,38.48
+788,2025-09-10,Customer_117,West,Electronics,Mouse,7,200,1400,136.46
+789,2025-11-04,Customer_159,East,Electronics,Mouse,9,50,450,40.84
+790,2025-03-17,Customer_38,North,Electronics,Keyboard,1,800,800,165.74
+791,2025-11-05,Customer_13,North,Furniture,Table,2,200,400,119.45
+792,2025-03-24,Customer_117,South,Office Supplies,Paper,10,100,1000,284.93
+793,2025-02-17,Customer_98,East,Furniture,Table,2,200,400,106.21
+794,2025-02-03,Customer_32,South,Furniture,Cabinet,5,100,500,97.98
+795,2025-09-26,Customer_28,North,Electronics,Mouse,10,800,8000,2363.66
+796,2025-09-28,Customer_110,East,Electronics,Monitor,10,100,1000,137.13
+797,2025-10-22,Customer_158,South,Office Supplies,Paper,10,200,2000,388.67
+798,2025-11-20,Customer_157,South,Furniture,Cabinet,4,800,3200,460.5
+799,2025-04-10,Customer_120,North,Electronics,Laptop,2,800,1600,426.52
+800,2025-11-12,Customer_86,North,Furniture,Cabinet,6,500,3000,771.99
+801,2025-04-19,Customer_66,East,Electronics,Mouse,2,100,200,29.21
+802,2025-10-09,Customer_176,North,Furniture,Chair,6,100,600,100.28
+803,2025-10-19,Customer_50,South,Office Supplies,Pen,6,100,600,169.74
+804,2025-09-03,Customer_124,South,Furniture,Chair,3,800,2400,435.21
+805,2025-10-02,Customer_191,West,Furniture,Cabinet,1,500,500,72.93
+806,2025-12-14,Customer_54,North,Furniture,Bookshelf,10,800,8000,1223.83
+807,2025-07-01,Customer_8,East,Electronics,Mouse,6,200,1200,261.4
+808,2025-03-26,Customer_48,West,Office Supplies,Marker,10,20,200,54.04
+809,2025-06-07,Customer_70,North,Office Supplies,Paper,7,20,140,26.51
+810,2025-05-02,Customer_56,East,Furniture,Cabinet,9,100,900,106.65
+811,2025-07-11,Customer_114,North,Electronics,Mouse,9,20,180,46.04
+812,2025-09-14,Customer_124,East,Electronics,Mouse,9,100,900,225.56
+813,2025-03-15,Customer_53,South,Electronics,Headphones,1,200,200,33.05
+814,2025-09-25,Customer_12,East,Electronics,Laptop,10,20,200,30.66
+815,2025-01-24,Customer_6,East,Electronics,Headphones,10,100,1000,220.55
+816,2025-04-18,Customer_74,South,Furniture,Desk,5,500,2500,375.53
+817,2025-08-14,Customer_39,East,Office Supplies,Pen,3,100,300,31.55
+818,2025-11-15,Customer_53,North,Office Supplies,Marker,9,100,900,180.77
+819,2025-05-19,Customer_44,South,Electronics,Keyboard,2,100,200,42.98
+820,2025-06-23,Customer_34,North,Office Supplies,Stapler,1,200,200,55.74
+821,2025-01-26,Customer_23,North,Electronics,Monitor,7,200,1400,167.13
+822,2025-11-02,Customer_80,East,Office Supplies,Stapler,6,50,300,71.05
+823,2025-12-10,Customer_146,West,Office Supplies,Pen,3,20,60,15.53
+824,2025-12-24,Customer_80,West,Furniture,Chair,8,200,1600,209.56
+825,2025-04-25,Customer_94,East,Electronics,Headphones,7,50,350,81.87
+826,2025-12-07,Customer_125,West,Furniture,Table,1,20,20,3.69
+827,2025-06-29,Customer_73,South,Furniture,Cabinet,6,500,3000,619.29
+828,2025-09-18,Customer_84,North,Electronics,Monitor,9,800,7200,688.34
+829,2025-06-04,Customer_152,West,Office Supplies,Stapler,7,50,350,75.81
+830,2025-10-08,Customer_17,West,Electronics,Monitor,6,50,300,77.72
+831,2025-10-30,Customer_140,East,Furniture,Cabinet,4,50,200,45.15
+832,2025-02-09,Customer_30,West,Office Supplies,Marker,10,500,5000,909.2
+833,2025-10-12,Customer_79,South,Electronics,Monitor,7,20,140,29.63
+834,2025-12-17,Customer_127,East,Office Supplies,Stapler,1,20,20,2.56
+835,2025-03-13,Customer_170,South,Office Supplies,Pen,3,200,600,118.13
+836,2025-07-19,Customer_51,West,Office Supplies,Marker,4,800,3200,873.71
+837,2025-06-03,Customer_184,West,Office Supplies,Paper,6,20,120,24.98
+838,2025-11-10,Customer_76,South,Office Supplies,Stapler,1,100,100,27.82
+839,2025-01-28,Customer_29,East,Electronics,Headphones,5,20,100,13.18
+840,2025-12-26,Customer_183,East,Office Supplies,Stapler,7,200,1400,229.52
+841,2025-10-07,Customer_36,West,Electronics,Mouse,4,500,2000,329.22
+842,2025-07-04,Customer_172,East,Furniture,Desk,3,50,150,12.38
+843,2025-11-28,Customer_169,West,Electronics,Mouse,7,50,350,34.52
+844,2025-11-25,Customer_160,West,Furniture,Cabinet,3,200,600,115.24
+845,2025-10-10,Customer_58,East,Furniture,Cabinet,3,200,600,127.8
+846,2025-10-23,Customer_106,East,Furniture,Desk,9,500,4500,723.3
+847,2025-01-20,Customer_29,East,Office Supplies,Stapler,10,200,2000,583.16
+848,2025-02-10,Customer_120,East,Electronics,Headphones,9,20,180,35.12
+849,2025-11-09,Customer_162,West,Electronics,Mouse,2,800,1600,351.06
+850,2025-10-24,Customer_88,North,Furniture,Bookshelf,9,20,180,32.97
+851,2025-09-20,Customer_108,East,Furniture,Bookshelf,6,100,600,86.18
+852,2025-01-19,Customer_187,East,Office Supplies,Marker,10,100,1000,93.51
+853,2025-08-31,Customer_169,North,Office Supplies,Notebook,5,800,4000,869.4
+854,2025-05-27,Customer_130,South,Furniture,Chair,2,100,200,27.09
+855,2025-11-12,Customer_4,East,Furniture,Table,2,500,1000,118.42
+856,2025-10-30,Customer_95,West,Office Supplies,Notebook,3,100,300,75.65
+857,2025-05-01,Customer_88,North,Furniture,Desk,2,50,100,21.1
+858,2025-03-20,Customer_61,West,Furniture,Cabinet,8,800,6400,1409.71
+859,2025-04-18,Customer_165,North,Office Supplies,Paper,5,20,100,9.16
+860,2025-08-26,Customer_122,East,Furniture,Cabinet,9,50,450,73.6
+861,2025-12-28,Customer_38,East,Furniture,Cabinet,9,200,1800,148.7
+862,2025-08-18,Customer_25,North,Furniture,Table,9,800,7200,1136.46
+863,2025-08-10,Customer_70,East,Office Supplies,Paper,5,20,100,13.62
+864,2025-10-27,Customer_188,South,Furniture,Cabinet,10,50,500,97.19
+865,2025-12-13,Customer_141,East,Office Supplies,Notebook,1,800,800,65.49
+866,2025-02-04,Customer_135,North,Electronics,Monitor,2,800,1600,284.97
+867,2025-04-23,Customer_50,East,Office Supplies,Paper,1,20,20,4.33
+868,2025-01-30,Customer_182,North,Office Supplies,Notebook,2,20,40,10.74
+869,2025-03-08,Customer_29,South,Furniture,Bookshelf,3,100,300,43.44
+870,2025-12-05,Customer_197,East,Electronics,Monitor,7,800,5600,1560.98
+871,2025-06-15,Customer_71,North,Furniture,Desk,1,200,200,33.1
+872,2025-01-31,Customer_113,South,Furniture,Table,2,200,400,118.19
+873,2025-04-13,Customer_166,South,Office Supplies,Stapler,8,20,160,17.86
+874,2025-08-09,Customer_114,North,Electronics,Headphones,5,20,100,8.77
+875,2025-02-06,Customer_5,West,Office Supplies,Paper,8,50,400,89.45
+876,2025-01-01,Customer_39,East,Electronics,Monitor,6,200,1200,247.71
+877,2025-09-21,Customer_112,West,Office Supplies,Stapler,7,800,5600,1410.11
+878,2025-02-05,Customer_99,North,Office Supplies,Notebook,8,20,160,32.77
+879,2025-07-03,Customer_15,West,Furniture,Table,2,100,200,39.52
+880,2025-06-24,Customer_166,East,Electronics,Monitor,4,50,200,40.4
+881,2025-07-16,Customer_179,East,Office Supplies,Notebook,7,20,140,30.62
+882,2025-07-03,Customer_189,West,Furniture,Chair,4,50,200,17.57
+883,2025-01-13,Customer_126,South,Office Supplies,Marker,7,20,140,35.62
+884,2025-11-26,Customer_5,West,Furniture,Cabinet,1,100,100,9.23
+885,2025-01-22,Customer_168,South,Furniture,Chair,9,200,1800,516.28
+886,2025-10-02,Customer_19,South,Electronics,Headphones,1,800,800,88.92
+887,2025-12-01,Customer_63,North,Electronics,Monitor,3,20,60,7.07
+888,2025-01-26,Customer_157,West,Furniture,Chair,3,500,1500,141.11
+889,2025-02-24,Customer_17,South,Electronics,Monitor,4,200,800,123.37
+890,2025-12-14,Customer_176,North,Furniture,Table,10,500,5000,551.06
+891,2025-04-20,Customer_86,South,Electronics,Headphones,2,20,40,5.61
+892,2025-08-01,Customer_113,South,Electronics,Keyboard,4,500,2000,177.91
+893,2025-02-21,Customer_200,West,Office Supplies,Marker,3,20,60,16.41
+894,2025-02-11,Customer_23,South,Electronics,Laptop,10,100,1000,171.57
+895,2025-09-01,Customer_37,South,Office Supplies,Notebook,5,500,2500,447.73
+896,2025-05-03,Customer_153,North,Electronics,Headphones,3,800,2400,455.94
+897,2025-02-15,Customer_108,East,Office Supplies,Paper,1,500,500,65.92
+898,2025-03-02,Customer_195,East,Office Supplies,Pen,9,500,4500,577.08
+899,2025-11-17,Customer_14,East,Office Supplies,Notebook,4,20,80,20.42
+900,2025-12-17,Customer_41,South,Furniture,Cabinet,1,20,20,4.44
+901,2025-05-26,Customer_86,East,Electronics,Monitor,10,200,2000,179.06
+902,2025-01-27,Customer_8,South,Office Supplies,Notebook,8,500,4000,422.14
+903,2025-05-01,Customer_108,East,Office Supplies,Stapler,4,800,3200,732.5
+904,2025-06-16,Customer_59,East,Electronics,Laptop,2,50,100,24.23
+905,2025-04-13,Customer_121,North,Furniture,Desk,10,200,2000,183.91
+906,2025-08-12,Customer_46,West,Electronics,Mouse,7,100,700,77.01
+907,2025-04-10,Customer_52,East,Office Supplies,Paper,6,50,300,26.12
+908,2025-10-19,Customer_29,South,Electronics,Keyboard,8,200,1600,275.21
+909,2025-06-25,Customer_164,South,Electronics,Keyboard,10,50,500,103.59
+910,2025-10-11,Customer_134,West,Electronics,Laptop,8,50,400,84.06
+911,2025-08-25,Customer_189,West,Furniture,Chair,4,50,200,30.4
+912,2025-10-24,Customer_147,South,Electronics,Headphones,1,200,200,59.13
+913,2025-01-21,Customer_109,North,Furniture,Bookshelf,9,200,1800,333.79
+914,2025-12-23,Customer_62,West,Electronics,Monitor,2,500,1000,245.68
+915,2025-12-21,Customer_34,South,Office Supplies,Stapler,6,100,600,79.56
+916,2025-02-16,Customer_42,East,Electronics,Monitor,8,500,4000,977.61
+917,2025-01-13,Customer_181,South,Furniture,Cabinet,7,50,350,88.82
+918,2025-07-09,Customer_161,North,Office Supplies,Stapler,2,200,400,110.62
+919,2025-06-20,Customer_110,East,Office Supplies,Pen,5,800,4000,1152.56
+920,2025-10-05,Customer_159,North,Office Supplies,Notebook,6,800,4800,1368.45
+921,2025-09-21,Customer_29,North,Office Supplies,Paper,7,100,700,127.66
+922,2025-01-21,Customer_166,South,Furniture,Table,9,800,7200,682.14
+923,2025-12-30,Customer_62,East,Electronics,Mouse,9,20,180,40.1
+924,2025-10-25,Customer_83,South,Office Supplies,Notebook,6,100,600,114.47
+925,2025-08-05,Customer_96,North,Furniture,Chair,6,200,1200,224.36
+926,2025-09-27,Customer_116,East,Electronics,Monitor,10,100,1000,255.98
+927,2025-12-21,Customer_23,West,Electronics,Mouse,2,200,400,111.02
+928,2025-05-28,Customer_71,South,Electronics,Laptop,2,800,1600,180.08
+929,2025-03-19,Customer_76,North,Electronics,Headphones,7,800,5600,1115.05
+930,2025-03-09,Customer_114,West,Furniture,Table,1,100,100,12.16
+931,2025-01-12,Customer_106,East,Electronics,Headphones,10,100,1000,224.27
+932,2025-06-17,Customer_118,West,Furniture,Bookshelf,5,500,2500,272.57
+933,2025-06-06,Customer_124,South,Electronics,Keyboard,6,100,600,149.61
+934,2025-01-25,Customer_117,East,Electronics,Keyboard,3,500,1500,424.96
+935,2025-12-31,Customer_45,South,Office Supplies,Paper,3,50,150,19.85
+936,2025-01-22,Customer_113,South,Furniture,Bookshelf,5,100,500,60.29
+937,2025-10-15,Customer_89,East,Office Supplies,Pen,3,100,300,53.6
+938,2025-03-25,Customer_7,North,Office Supplies,Paper,7,200,1400,348.7
+939,2025-08-23,Customer_190,North,Furniture,Desk,9,500,4500,687.97
+940,2025-12-28,Customer_194,East,Furniture,Cabinet,10,800,8000,898.87
+941,2025-10-17,Customer_177,East,Office Supplies,Stapler,2,800,1600,296.6
+942,2025-01-21,Customer_79,North,Electronics,Headphones,1,200,200,43.17
+943,2025-04-23,Customer_84,North,Furniture,Table,1,500,500,110.54
+944,2025-10-26,Customer_51,East,Office Supplies,Notebook,1,20,20,3.97
+945,2025-08-17,Customer_50,West,Office Supplies,Pen,8,100,800,170.16
+946,2025-09-19,Customer_38,West,Electronics,Keyboard,7,100,700,115.46
+947,2025-01-07,Customer_79,East,Furniture,Table,8,500,4000,397.09
+948,2025-08-16,Customer_74,West,Office Supplies,Stapler,3,800,2400,704.35
+949,2025-08-06,Customer_151,South,Office Supplies,Stapler,10,20,200,22.32
+950,2025-06-05,Customer_17,East,Furniture,Bookshelf,10,200,2000,198.92
+951,2025-07-29,Customer_45,West,Office Supplies,Paper,9,200,1800,425.26
+952,2025-03-12,Customer_75,West,Electronics,Mouse,9,200,1800,160.72
+953,2025-06-04,Customer_144,West,Office Supplies,Paper,8,50,400,34.36
+954,2025-01-02,Customer_164,East,Electronics,Keyboard,8,20,160,35.81
+955,2025-05-28,Customer_177,West,Furniture,Desk,4,20,80,8.5
+956,2025-05-22,Customer_149,East,Furniture,Chair,8,500,4000,703.74
+957,2025-05-13,Customer_96,North,Office Supplies,Stapler,9,800,7200,1487.22
+958,2025-05-13,Customer_38,North,Electronics,Headphones,6,200,1200,327.88
+959,2025-03-11,Customer_70,North,Furniture,Desk,6,200,1200,263.97
+960,2025-07-02,Customer_136,East,Electronics,Keyboard,2,500,1000,122.64
+961,2025-11-18,Customer_140,South,Electronics,Laptop,6,100,600,157.14
+962,2025-12-17,Customer_25,East,Furniture,Table,9,500,4500,708.11
+963,2025-03-15,Customer_96,East,Electronics,Mouse,8,200,1600,247.79
+964,2025-03-25,Customer_129,South,Electronics,Mouse,4,50,200,50.98
+965,2025-10-14,Customer_107,North,Office Supplies,Marker,8,20,160,16.9
+966,2025-03-09,Customer_80,East,Electronics,Monitor,6,50,300,77.92
+967,2025-11-02,Customer_182,South,Office Supplies,Paper,5,20,100,24.38
+968,2025-03-02,Customer_177,South,Electronics,Mouse,4,100,400,43.03
+969,2025-03-08,Customer_20,North,Electronics,Monitor,1,200,200,49.32
+970,2025-01-22,Customer_169,North,Electronics,Laptop,9,500,4500,418.67
+971,2025-03-02,Customer_78,North,Furniture,Chair,1,20,20,5.04
+972,2025-11-05,Customer_48,South,Electronics,Headphones,6,20,120,12.0
+973,2025-05-23,Customer_42,East,Office Supplies,Paper,9,800,7200,1546.92
+974,2025-09-16,Customer_149,North,Office Supplies,Pen,1,500,500,63.87
+975,2025-04-09,Customer_186,North,Furniture,Desk,2,50,100,28.25
+976,2025-12-29,Customer_113,South,Furniture,Table,2,50,100,26.36
+977,2025-07-14,Customer_105,South,Furniture,Desk,2,100,200,21.44
+978,2025-02-26,Customer_196,West,Office Supplies,Notebook,6,800,4800,688.41
+979,2025-01-21,Customer_30,West,Electronics,Keyboard,7,100,700,126.37
+980,2025-06-09,Customer_142,South,Office Supplies,Stapler,7,100,700,207.68
+981,2025-08-08,Customer_174,West,Electronics,Laptop,6,50,300,24.84
+982,2025-12-12,Customer_113,West,Furniture,Chair,9,800,7200,1647.61
+983,2025-03-03,Customer_178,West,Electronics,Monitor,10,20,200,48.62
+984,2025-03-28,Customer_87,South,Electronics,Keyboard,4,500,2000,531.37
+985,2025-07-26,Customer_186,West,Electronics,Mouse,8,100,800,198.61
+986,2025-10-25,Customer_92,West,Office Supplies,Paper,8,800,6400,1361.26
+987,2025-07-27,Customer_38,East,Furniture,Bookshelf,8,20,160,17.1
+988,2025-09-08,Customer_8,South,Furniture,Desk,2,800,1600,146.6
+989,2025-02-04,Customer_98,South,Furniture,Chair,10,800,8000,1215.44
+990,2025-06-05,Customer_195,North,Office Supplies,Marker,2,800,1600,392.57
+991,2025-09-10,Customer_170,East,Furniture,Desk,8,200,1600,305.69
+992,2025-10-05,Customer_196,North,Furniture,Bookshelf,1,200,200,54.73
+993,2025-03-02,Customer_97,East,Furniture,Cabinet,8,200,1600,140.67
+994,2025-04-01,Customer_126,South,Office Supplies,Paper,7,50,350,52.06
+995,2025-07-19,Customer_169,West,Furniture,Chair,9,800,7200,1430.4
+996,2025-08-29,Customer_130,South,Furniture,Bookshelf,1,200,200,27.59
+997,2025-10-30,Customer_197,East,Furniture,Bookshelf,5,100,500,46.76
+998,2025-10-30,Customer_90,East,Electronics,Mouse,10,20,200,49.67
+999,2025-11-17,Customer_110,North,Furniture,Cabinet,6,100,600,102.37
+1000,2025-01-29,Customer_61,South,Office Supplies,Notebook,5,500,2500,246.72
