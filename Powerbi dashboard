@@ -1,0 +1,26 @@
+Open Power BI Desktop.
+Click Home → Get Data → Text/CSV.
+Import sales_dataset_1000_rows.csv.
+Click Load.
+Create DAX measures:
+Total Sales
+Total Profit
+Total Orders
+Total Customers
+Add visuals:
+KPI Cards (Total Sales, Profit, Orders, Customers)
+Bar Chart → Sales by Region
+Donut Chart → Sales by Category
+Line Chart → Monthly Sales Trend
+Bar Chart → Top 10 Products
+Column Chart → Profit by Region
+Table → Sales Details
+Add Slicers:
+Date
+Region
+Category
+Product
+Save the report as:
+Sales_Performance_Dashboard.pbix
+Take a screenshot and save it as:
+Images/dashboard_overview.png
